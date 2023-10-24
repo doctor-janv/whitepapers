@@ -17,3 +17,4 @@ https://github.com/doctor-janv/whitepapers/ChiTech-LBS-TheoryManual/ChiTech-LBS-
 ## Index
 - [ChiTech-LBS Theory Manual](./ChiTech-LBS-TheoryManual/ChiTech-LBS-TheoryManual_v_1_13.pdf)
 - [Inviscid Fluid flow with Riemann solvers and the Muscle-Hancock explicit scheme](./InviscidHydro_MHM/MHM_HLLC_v_1_0.pdf)
+- [Lagrange Spatial Discretization Method](./LagrangeSDM/LagrangeSDM_v_1_0.pdf)
